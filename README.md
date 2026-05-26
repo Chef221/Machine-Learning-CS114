@@ -16,7 +16,7 @@ This project develops predictive models for NBA games by analyzing historical ga
 ## 🏗️ Project Structure
 
 ```
-CS114_CK/
+Machine-Learning-CS114/
 ├── data_eda/                           # Data exploration and cleaning
 │   ├── CrawlingData.ipynb             # Web scraping and data collection
 │   ├── EDA.ipynb                      # Exploratory data analysis
@@ -74,8 +74,8 @@ CS114_CK/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/CS114_CK.git
-   cd CS114_CK
+   git clone https://github.com/yourusername/Machine-Learning-CS114.git
+   cd Machine-Learning-CS114
    ```
 
 2. **Create a virtual environment**
