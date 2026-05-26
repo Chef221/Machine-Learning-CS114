@@ -149,9 +149,9 @@ The app will open at `http://localhost:8501`
 
 | Version | Features                     | Accuracy | Status      |
 | ------- | ---------------------------- | -------- | ----------- |
-| V1      | Basic stats aggregations     | ~70%     | Development |
-| V2      | Advanced contextual features | ~75%     | Development |
-| V3      | Optimized ensemble features  | ~78%     | Production  |
+| V1      | Basic stats aggregations     | ~67%     | Development |
+| V2      | Advanced contextual features | ~68%     | Development |
+| V3      | Optimized ensemble features  | ~68%     | Production  |
 
 ## 📊 Data Features
 
