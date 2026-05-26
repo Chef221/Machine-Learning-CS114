@@ -188,14 +188,6 @@ The project uses multiple feature types:
 
 This project is part of CS114 coursework.
 
-## 👤 Author
-
-HuongMoRong
-
-## 📧 Contact
-
-For questions or collaboration, please reach out through GitHub issues.
-
 ---
 
 **Last Updated**: May 2026
